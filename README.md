@@ -231,20 +231,20 @@ This significantly reduces unnecessary iterations.
 ## Standard Least Squares
 
 ### Scatter Plot
-![SLS Scatter](results/pc1/Least Squared_scatter.png) ![SLS Scatter](results/pc2/Least Squared_scatter.png)
+![SLS Scatter](results/pc1/Least_Squared_scatter.png) ![SLS Scatter](results/pc2/Least_Squared_scatter.png)
 
 ### Surface Plot
-![SLS Surface](results/pc1/Least Squared_surface.png) ![SLS Scatter](results/pc2/Least Squared_surface.png)
+![SLS Surface](results/pc1/Least_Squared_surface.png) ![SLS Scatter](results/pc2/Least_Squared_surface.png)
 
 ---
 
 # Total Least Squares
 
 ### Scatter Plot
-![TLS Scatter](results/pc1/Total Least Squared_scatter.png)  ![TLS Scatter](results/pc2/Total Least Squared_scatter.png)
+![TLS Scatter](results/pc1/Total_Least_Squared_scatter.png)  ![TLS Scatter](results/pc2/Total_Least_Squared_scatter.png)
 
 ### Surface Plot
-![TLS Surface](results/pc1/Total Least Squared_surface.png)   ![TLS Surface](results/pc2/Total Least Squared_surface.png) 
+![TLS Surface](results/pc1/Total_Least_Squared_surface.png)   ![TLS Surface](results/pc2/Total_Least_Squared_surface.png) 
 
 ---
 

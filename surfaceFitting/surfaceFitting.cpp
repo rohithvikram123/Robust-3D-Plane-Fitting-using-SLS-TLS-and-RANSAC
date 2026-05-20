@@ -173,7 +173,7 @@ void SurfaceFitting::leastSquaredFitting(){
         Z.push_back(z_row);
     }
 
-    plot("Least Squared", x_ovec, y_ovec, z_ovec, X, Y, Z);
+    plot("Least_Squared", x_ovec, y_ovec, z_ovec, X, Y, Z);
     
 }
 
@@ -225,7 +225,7 @@ void SurfaceFitting::totalLeastSquared(){
         Y.push_back(y_row);
         Z.push_back(z_row);
     }
-    plot("Total Least Squared", x_ovec, y_ovec, z_ovec, X, Y, Z);
+    plot("Total_Least_Squared", x_ovec, y_ovec, z_ovec, X, Y, Z);
 }
 
 void SurfaceFitting::ransac(){
