@@ -231,30 +231,50 @@ This significantly reduces unnecessary iterations.
 ## Standard Least Squares
 
 ### Scatter Plot
-![SLS Scatter](results/pc1/Least_Squared_scatter.png) ![SLS Scatter](results/pc2/Least_Squared_scatter.png)
+<p align="center">
+  <img src="results/pc1/Least_Squared_scatter.png" width="45%" />
+  <img src="results/pc1/Least_Squared_surface.png" width="45%" />
+</p>
 
 ### Surface Plot
-![SLS Surface](results/pc1/Least_Squared_surface.png) ![SLS Scatter](results/pc2/Least_Squared_surface.png)
+<p align="center">
+  <img src="results/pc2/Least_Squared_scatter.png" width="45%" />
+  <img src="results/pc2/Least_Squared_surface.png" width="45%" />
+</p>
 
 ---
 
 # Total Least Squares
 
-### Scatter Plot
-![TLS Scatter](results/pc1/Total_Least_Squared_scatter.png)  ![TLS Scatter](results/pc2/Total_Least_Squared_scatter.png)
+### pc1 data
+<p align="center">
+  <img src="results/pc1/Total_Least_Squared_scatter.png" width="45%" />
+  <img src="results/pc1/Total_Least_Squared_surface.png" width="45%" />
+</p>
 
-### Surface Plot
-![TLS Surface](results/pc1/Total_Least_Squared_surface.png)   ![TLS Surface](results/pc2/Total_Least_Squared_surface.png) 
+### pc2 data
+<p align="center">
+  <img src="results/pc2/Total_Least_Squared_scatter.png" width="45%" />
+  <img src="results/pc2/Total_Least_Squared_surface.png" width="45%" />
+</p>
 
 ---
 
 # RANSAC
 
 ### Scatter Plot
-![RANSAC Scatter](results/pc1/RANSAC_scatter.png)  ![RANSAC Scatter](results/pc2/RANSAC_scatter.png)
+<p align="center">
+  <img src="results/pc1/RANSAC_scatter.png" width="45%" />
+  <img src="results/pc1/RANSAC_surface.png" width="45%" />
+</p>
+
+
 
 ### Surface Plot
-![RANSAC Surface](results/pc1/RANSAC_surface.png)  ![RANSAC Surface](results/pc2/RANSAC_surface.png)
+<p align="center">
+  <img src="results/pc2/RANSAC_scatter.png" width="45%" />
+  <img src="results/pc2/RANSAC_surface.png" width="45%" />
+</p>
 
 ---
 
