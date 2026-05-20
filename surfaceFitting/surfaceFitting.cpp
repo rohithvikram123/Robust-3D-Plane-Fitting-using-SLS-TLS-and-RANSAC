@@ -110,13 +110,13 @@ void SurfaceFitting::plot(std::string fittingType, std::vector<double>& x_ovec, 
     plt::figure();
     plt::scatter(x_ovec, y_ovec, z_ovec, 10.0);
     plt::title(fittingType + "- Scatter");
-    plt::save(data_name_ + "/" + fittingType + "_scatter.png");
+    plt::save("results/" + data_name_ + "/" + fittingType + "_scatter.png");
     plt::close();
 
     plt::figure();
     plt::plot_surface(x_vec, y_vec, z_vec, {{"alpha", "1.0"}});
     plt::title(fittingType + "- Surface");
-    plt::save(data_name_ + "/" + fittingType + "_surface.png");
+    plt::save("results/" + data_name_ + "/" + fittingType + "_surface.png");
     plt::close();
 }
 
